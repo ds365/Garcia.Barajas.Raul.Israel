@@ -1,1 +1,0 @@
-Se adjunta archivo en matlab de la tarea #7, el cual contiene la matriz homogenea de un robot, asi como un archivo word con la Tabla D-H del mismo.
